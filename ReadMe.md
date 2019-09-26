@@ -5,11 +5,11 @@ _______________________________________________________
 ![alt text](1.jpg)
 
 Features:
-    Clean Up Function
-    Change Dir Functions
-    Copy, Pasting and Moving
-    Directory Manipulation
-    Type text showing Function
+    * Clean Up Function
+    * Change Dir Functions
+    * Copy, Pasting and Moving
+    * Directory Manipulation
+    * Type text showing Function
 _______________________________________________________
 Please note that my project is in initial level, its code is not that optimized. But it works seamlessly though.! I will update it further with many new Functions and ANSI C++ standard functions as well. (Update 2019: Nope, not anytime soon :D )
 

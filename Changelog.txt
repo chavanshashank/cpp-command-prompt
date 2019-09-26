@@ -1,0 +1,16 @@
+Changelog:
+_______________________________________
+CMD 1.4.19:
+
+*fixed file close bug.
+*fixed casing problem of second string.
+*almost stable release with many other fixes.
+*Last release of the "1.x" series.
+_______________________________________
+CMD 1.4.17:
+
+*fixed the crashing of the program while performing few functions like type,move.
+*now copy , move etc. function does not create file if it does not exist.
+*recognizes if the command is empty.
+*recognizes whether file exist or not.
+*adjusted and changed the formatted output.
